@@ -1,0 +1,22 @@
+{
+  "wheel_id": 849,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-117",
+  "project": "tiling-and-waterproofing-adelaide-timeline-c0640c6e5a8c1f11b695",
+  "parent_t1_ref": "adelaidetilingwaterproofing-158",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling and waterproofing adelaide timeline",
+  "intended_url": "https://aumedia.neocities.org/tiling-and-waterproofing-adelaide-timeline-c0640c6e5a8c1f11b695/",
+  "tier": "T2",
+  "writeback_nonce": "2b1a86f9d3e2a9a4",
+  "links": [
+    {
+      "target_url": "http://tiling-and-waterproofing-adelaide-signs-you-need-ffcbda47781c07.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "tiling and waterproofing adelaide signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
